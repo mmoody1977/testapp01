@@ -5,24 +5,24 @@
         <admin_overrides>true</admin_overrides>
         <advanced>false</advanced>
         <condition/>
-        <description>Default access control on x_60778_test_appli_testtable01</description>
-        <name>x_60778_test_appli_testtable01</name>
-        <operation display_value="read">read</operation>
+        <description>Default access control on x_60778_test_appli_testtable2</description>
+        <name>x_60778_test_appli_testtable2</name>
+        <operation display_value="create">create</operation>
         <script/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2016-05-26 18:07:23</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>5f08d73e0faf120071ff09bce1050e37</sys_id>
+        <sys_created_on>2016-05-26 18:11:42</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>2a095ff20fef120071ff09bce1050ea6</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_60778_test_appli_testtable01</sys_name>
+        <sys_name>x_60778_test_appli_testtable2</sys_name>
         <sys_package display_value="Test Application" source="x_60778_test_appli">7131b7710f23120071ff09bce1050e95</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Test Application">7131b7710f23120071ff09bce1050e95</sys_scope>
-        <sys_update_name>sys_security_acl_5f08d73e0faf120071ff09bce1050e37</sys_update_name>
+        <sys_update_name>sys_security_acl_2a095ff20fef120071ff09bce1050ea6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-05-26 18:07:23</sys_updated_on>
+        <sys_updated_on>2016-05-26 18:11:42</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>
