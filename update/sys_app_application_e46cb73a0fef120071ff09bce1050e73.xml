@@ -6,27 +6,27 @@
         <description/>
         <device_type>browser</device_type>
         <hint/>
-        <name>TestTable2</name>
+        <name>TestTable3</name>
         <order>100</order>
-        <roles>x_60778_test_appli_testtable2_user</roles>
+        <roles>x_60778_test_appli_testtable3_user</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2016-05-26 18:11:41</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_created_on>2016-05-26 20:46:07</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>62095ff20fef120071ff09bce1050ea4</sys_id>
+        <sys_id>e46cb73a0fef120071ff09bce1050e73</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>TestTable2</sys_name>
+        <sys_name>TestTable3</sys_name>
         <sys_overrides/>
         <sys_package display_value="Test Application" source="x_60778_test_appli">7131b7710f23120071ff09bce1050e95</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Test Application">7131b7710f23120071ff09bce1050e95</sys_scope>
-        <sys_update_name>sys_app_application_62095ff20fef120071ff09bce1050ea4</sys_update_name>
+        <sys_update_name>sys_app_application_e46cb73a0fef120071ff09bce1050e73</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-05-26 18:11:41</sys_updated_on>
-        <title>TestTable2</title>
+        <sys_updated_on>2016-05-26 20:46:07</sys_updated_on>
+        <title>TestTable3</title>
         <view_name/>
     </sys_app_application>
 </record_update>
