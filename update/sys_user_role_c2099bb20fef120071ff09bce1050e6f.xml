@@ -7,21 +7,21 @@
         <elevated_privilege>false</elevated_privilege>
         <grantable>true</grantable>
         <includes_roles/>
-        <name>x_60778_test_appli_testtable01_user</name>
+        <name>x_60778_test_appli_testtable2_user</name>
         <suffix/>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2016-05-26 18:07:21</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>f608d73e0faf120071ff09bce1050e32</sys_id>
+        <sys_created_on>2016-05-26 18:11:40</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>c2099bb20fef120071ff09bce1050e6f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_60778_test_appli_testtable01_user</sys_name>
+        <sys_name>x_60778_test_appli_testtable2_user</sys_name>
         <sys_package display_value="Test Application" source="x_60778_test_appli">7131b7710f23120071ff09bce1050e95</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Test Application">7131b7710f23120071ff09bce1050e95</sys_scope>
-        <sys_update_name>sys_user_role_f608d73e0faf120071ff09bce1050e32</sys_update_name>
+        <sys_update_name>sys_user_role_c2099bb20fef120071ff09bce1050e6f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-05-26 18:07:21</sys_updated_on>
+        <sys_updated_on>2016-05-26 18:11:40</sys_updated_on>
     </sys_user_role>
 </record_update>
