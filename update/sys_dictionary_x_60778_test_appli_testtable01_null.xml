@@ -52,7 +52,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-05-26 18:07:23</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>b10cf33e0fef120071ff09bce1050e0e</sys_id>
+        <sys_id>5ed78c83db23120098aef00fbf9619f6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_60778_test_appli_testtable01</sys_name>
         <sys_package display_value="Test Application" source="x_60778_test_appli">7131b7710f23120071ff09bce1050e95</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="Test Application">7131b7710f23120071ff09bce1050e95</sys_scope>
         <sys_update_name>sys_dictionary_x_60778_test_appli_testtable01_NULL</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2016-05-26 20:44:35</sys_updated_on>
+        <sys_updated_on>2016-05-26 21:36:14</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

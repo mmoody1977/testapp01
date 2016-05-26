@@ -2,30 +2,30 @@
 <record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="TestTable3">ac6cb73a0fef120071ff09bce1050e74</application>
+        <application display_value="TestTable4">3fbb8407db23120098aef00fbf9619bd</application>
         <filter/>
-        <name>TestTable3s</name>
+        <name>TestTable4s</name>
         <order/>
         <path/>
         <path_relative_to_root>false</path_relative_to_root>
-        <roles>x_60778_test_appli_testtable3_user</roles>
+        <roles>x_60778_test_appli_testtable4_user</roles>
         <sys_class_name>sys_ui_module</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2016-05-26 20:46:07</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_created_by>michael</sys_created_by>
+        <sys_created_on>2016-05-26 21:53:14</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>a46cb73a0fef120071ff09bce1050e75</sys_id>
+        <sys_id>37bb8407db23120098aef00fbf9619be</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>TestTable3s</sys_name>
+        <sys_name>TestTable4s</sys_name>
         <sys_package display_value="Test Application" source="x_60778_test_appli">7131b7710f23120071ff09bce1050e95</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Test Application">7131b7710f23120071ff09bce1050e95</sys_scope>
-        <sys_update_name>sys_ui_module_a46cb73a0fef120071ff09bce1050e75</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-05-26 20:46:07</sys_updated_on>
-        <table>x_60778_test_appli_testtable3</table>
+        <sys_update_name>sys_ui_module_37bb8407db23120098aef00fbf9619be</sys_update_name>
+        <sys_updated_by>michael</sys_updated_by>
+        <sys_updated_on>2016-05-26 21:53:14</sys_updated_on>
+        <table>x_60778_test_appli_testtable4</table>
         <uncancelable>false</uncancelable>
         <view_name/>
     </sys_ui_module>
